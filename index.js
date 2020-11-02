@@ -12,3 +12,4 @@ window.game = game
 window.view = view
 window.controller = controller
 // view.renderEndScreen(game.getState());
+
